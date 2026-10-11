@@ -1,0 +1,207 @@
+[
+ [
+  "01_smoke",
+  "PASS",
+  " [0.1s]"
+ ],
+ [
+  "02_functional",
+  "PASS",
+  " [0.9s]"
+ ],
+ [
+  "03_presets",
+  "PASS",
+  " [0.5s]"
+ ],
+ [
+  "04a_1_file",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "04b_64_files",
+  "PASS",
+  " [1.0s]"
+ ],
+ [
+  "04c_127_files",
+  "PASS",
+  " [1.6s]"
+ ],
+ [
+  "04d_128_files",
+  "PASS",
+  " [1.7s]"
+ ],
+ [
+  "04e_129_files_REJECT",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "04f_128_files_x_120_cmds_HEAVY",
+  "PASS",
+  " [39.2s]"
+ ],
+ [
+  "05a_size_4MiB_exact",
+  "PASS",
+  " [0.1s]"
+ ],
+ [
+  "05b_size_4MiB_plus1_REJECT",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "05c_120_commands",
+  "PASS",
+  " [0.4s]"
+ ],
+ [
+  "05c2_128_commands_REPORT_CAP",
+  "PASS",
+  " [0.3s]"
+ ],
+ [
+  "05d_129_commands_REJECT",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "05e_command_4096_chars",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "05f_command_4097_chars_REJECT",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "05g_angle_1e12",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "05h_angle_over_REJECT",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "06a_bom_crlf",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "06b_unicode_and_space_names",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "06c_ordinal_sort",
+  "PASS",
+  " [0.1s]"
+ ],
+ [
+  "06d_comments_headings_blanks",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "06e_decoys_skipped",
+  "PASS",
+  " [0.1s]"
+ ],
+ [
+  "06f_same_stem_mixed",
+  "PASS",
+  " [0.1s]"
+ ],
+ [
+  "07a_prose_line",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07b_code_fence",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07c_unknown_command",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07d_unquoted_semicolon",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07e_qc198_unavailable",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07f_nested_folder",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07g_nested_input",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07h_delete_refused",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07i_invalid_utf8",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07j_empty_file",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07k_json_bad_field",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07l_qasm_no_header",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07m_pdf_untagged",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07n_csv_parameter_table",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07o_no_supported_files",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "07p_good_good_BAD_good",
+  "PASS",
+  " [0.0s]"
+ ],
+ [
+  "08_cancel_long_running",
+  "FAIL",
+  "job completed != cancelled (after q.folder cancel) () [115.2s]"
+ ]
+]
