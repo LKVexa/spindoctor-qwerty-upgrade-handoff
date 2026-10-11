@@ -1,0 +1,54 @@
+Files a/mvp/BOOT_DIRECT.cmd and b/source/mvp/BOOT_DIRECT.cmd differ
+Files a/mvp/BOOT_LOOPBACK.cmd and b/source/mvp/BOOT_LOOPBACK.cmd differ
+Files a/mvp/BOOT_SAFE.cmd and b/source/mvp/BOOT_SAFE.cmd differ
+Files a/mvp/BUILD_HARNESS.cmd and b/source/mvp/BUILD_HARNESS.cmd differ
+Files a/mvp/DIAGNOSE.cmd and b/source/mvp/DIAGNOSE.cmd differ
+Files a/mvp/INSPECT.cmd and b/source/mvp/INSPECT.cmd differ
+Only in b/source/mvp: PACKAGE_TOOLS.md
+Only in b/source/mvp: PACKAGE_TOOLS.ps1
+Files a/mvp/PERFORMANCE_DASHBOARD.html and b/source/mvp/PERFORMANCE_DASHBOARD.html differ
+Files a/mvp/QUANTUM-NOTES.txt and b/source/mvp/QUANTUM-NOTES.txt differ
+Files a/mvp/QUANTUM_TERMINAL.html and b/source/mvp/QUANTUM_TERMINAL.html differ
+Files a/mvp/README.md and b/source/mvp/README.md differ
+Files a/mvp/RESET_CURRENT.cmd and b/source/mvp/RESET_CURRENT.cmd differ
+Files a/mvp/RUN_10Q_AT_1M_MVP.cmd and b/source/mvp/RUN_10Q_AT_1M_MVP.cmd differ
+Files a/mvp/SHA256SUMS.txt and b/source/mvp/SHA256SUMS.txt differ
+Files a/mvp/SPINDOCTOR-NOTES.txt and b/source/mvp/SPINDOCTOR-NOTES.txt differ
+Files a/mvp/SPINDOCTOR_COMMAND_CATALOGUE.txt and b/source/mvp/SPINDOCTOR_COMMAND_CATALOGUE.txt differ
+Files a/mvp/SPINDOCTOR_PRESETS.json and b/source/mvp/SPINDOCTOR_PRESETS.json differ
+Files a/mvp/START_HERE.txt and b/source/mvp/START_HERE.txt differ
+Only in b/source/mvp: SpinDoctor-3.0.4-Release-Notes.txt
+Files a/mvp/SpinDoctor.html and b/source/mvp/SpinDoctor.html differ
+Files a/mvp/VERIFY.cmd and b/source/mvp/VERIFY.cmd differ
+Files a/mvp/VERSION.txt and b/source/mvp/VERSION.txt differ
+Files a/mvp/benchmark/Run-Benchmark.ps1 and b/source/mvp/benchmark/Run-Benchmark.ps1 differ
+Files a/mvp/benchmark/latest_metrics.js and b/source/mvp/benchmark/latest_metrics.js differ
+Files a/mvp/benchmark/latest_metrics.json and b/source/mvp/benchmark/latest_metrics.json differ
+Files a/mvp/bootstrap/BOOT.cmd and b/source/mvp/bootstrap/BOOT.cmd differ
+Files a/mvp/bootstrap/TIFFGifHoloHarness.cs and b/source/mvp/bootstrap/TIFFGifHoloHarness.cs differ
+Files a/mvp/meta/ENTRYPOINT.json and b/source/mvp/meta/ENTRYPOINT.json differ
+Only in b/source/mvp/native: README.md
+Only in b/source/mvp/native: loopback_http.py
+Only in b/source/mvp/native: requirements.txt
+Files a/mvp/native/xor_reference_server.py and b/source/mvp/native/xor_reference_server.py differ
+Files a/mvp/native/xor_server.py and b/source/mvp/native/xor_server.py differ
+Files a/mvp/native/xpu_server.py and b/source/mvp/native/xpu_server.py differ
+Files a/mvp/quantum/MODEL.json and b/source/mvp/quantum/MODEL.json differ
+Files a/mvp/quantum/QuantumTerminal.cs and b/source/mvp/quantum/QuantumTerminal.cs differ
+Files a/mvp/quantum/SpinDoctorAdvanced.cs and b/source/mvp/quantum/SpinDoctorAdvanced.cs differ
+Files a/mvp/quantum/SpinDoctorCalculators.cs and b/source/mvp/quantum/SpinDoctorCalculators.cs differ
+Files a/mvp/quantum/SpinDoctorCircuits.cs and b/source/mvp/quantum/SpinDoctorCircuits.cs differ
+Files a/mvp/quantum/SpinDoctorCommandReports.cs and b/source/mvp/quantum/SpinDoctorCommandReports.cs differ
+Files a/mvp/quantum/SpinDoctorInputs.cs and b/source/mvp/quantum/SpinDoctorInputs.cs differ
+Files a/mvp/quantum/SpinDoctorPdfInputs.cs and b/source/mvp/quantum/SpinDoctorPdfInputs.cs differ
+Files a/mvp/quantum/SpinDoctorReports.cs and b/source/mvp/quantum/SpinDoctorReports.cs differ
+Files a/mvp/quantum/SpinDoctorSequences.cs and b/source/mvp/quantum/SpinDoctorSequences.cs differ
+Files a/mvp/quantum/SpinDoctorSyntax.cs and b/source/mvp/quantum/SpinDoctorSyntax.cs differ
+Files a/mvp/quantum/SpinDoctorTrancheTerminal.cs and b/source/mvp/quantum/SpinDoctorTrancheTerminal.cs differ
+Files a/mvp/quantum/SpinDoctorTranches.cs and b/source/mvp/quantum/SpinDoctorTranches.cs differ
+Files a/mvp/runtime/flop-ledger.js and b/source/mvp/runtime/flop-ledger.js differ
+Files a/mvp/runtime/full-domain.js and b/source/mvp/runtime/full-domain.js differ
+Files a/mvp/runtime/rate-metrics.js and b/source/mvp/runtime/rate-metrics.js differ
+Files a/mvp/runtime/virtual-domain.js and b/source/mvp/runtime/virtual-domain.js differ
+Files a/mvp/ultrawide-appliance/repository/UltraWide-Appliance-main/src/ultrawide/repository.py and b/source/mvp/ultrawide-appliance/repository/UltraWide-Appliance-main/src/ultrawide/repository.py differ
+Files a/mvp/ultrawide-appliance/repository/UltraWide-Appliance-main/tests/test_repository.py and b/source/mvp/ultrawide-appliance/repository/UltraWide-Appliance-main/tests/test_repository.py differ
