@@ -1,0 +1,2432 @@
+[
+ {
+  "format": "claude-code",
+  "check": "parses: claude-code/spindoctor-qwerty/.mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "parses: claude-code/spindoctor-qwerty/.claude-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "parses: claude-code/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "parses: claude-code/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "parses: claude-code/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "parses: chatgpt-codex/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "parses: chatgpt-codex/spindoctor-qwerty/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "parses: chatgpt-codex/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "parses: chatgpt-codex/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "parses: chatgpt-codex/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok_bot_skill",
+  "check": "parses: grok_bot_skill/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok_bot_skill",
+  "check": "parses: grok_bot_skill/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok_bot_skill",
+  "check": "parses: grok_bot_skill/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "nous",
+  "check": "parses: nous/spindoctor-qwerty/plugin.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "nous",
+  "check": "parses: nous/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "nous",
+  "check": "parses: nous/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "nous",
+  "check": "parses: nous/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "hermes",
+  "check": "parses: hermes/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "hermes",
+  "check": "parses: hermes/spindoctor-qwerty/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "hermes",
+  "check": "parses: hermes/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "hermes",
+  "check": "parses: hermes/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "hermes",
+  "check": "parses: hermes/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "parses: copilot/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "parses: copilot/spindoctor-qwerty/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "parses: copilot/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "parses: copilot/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "parses: copilot/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "parses: copilot/spindoctor-qwerty/com.github.copilot/hooks/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "midjourney",
+  "check": "parses: midjourney/spindoctor-qwerty-companion/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "midjourney",
+  "check": "parses: midjourney/spindoctor-qwerty-companion/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "midjourney",
+  "check": "parses: midjourney/spindoctor-qwerty-companion/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "midjourney",
+  "check": "parses: midjourney/spindoctor-qwerty-companion/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "midjourney",
+  "check": "parses: midjourney/spindoctor-qwerty-companion/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-desktop",
+  "check": "parses: claude-desktop/spindoctor-qwerty/manifest.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-desktop",
+  "check": "parses: claude-desktop/spindoctor-qwerty/server/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-desktop",
+  "check": "parses: claude-desktop/spindoctor-qwerty/server/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-desktop",
+  "check": "parses: claude-desktop/spindoctor-qwerty/server/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "parses: cursor/spindoctor-qwerty/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "parses: cursor/spindoctor-qwerty/.cursor-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "parses: cursor/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "parses: cursor/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "parses: cursor/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "parses: gemini-cli/spindoctor-qwerty/gemini-extension.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "parses: gemini-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "parses: gemini-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "parses: gemini-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "parses: gemini-cli/spindoctor-qwerty/commands/qwerty/run.toml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "parses: gemini-cli/spindoctor-qwerty/commands/qwerty/preset.toml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "parses: gemini-cli/spindoctor-qwerty/commands/qwerty/functions.toml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "parses: gemini-cli/spindoctor-qwerty/commands/qwerty/theory.toml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kiro",
+  "check": "parses: kiro/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kiro",
+  "check": "parses: kiro/spindoctor-qwerty/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kiro",
+  "check": "parses: kiro/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kiro",
+  "check": "parses: kiro/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kiro",
+  "check": "parses: kiro/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "parses: grok-build/spindoctor-qwerty/.mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "parses: grok-build/spindoctor-qwerty/.grok-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "parses: grok-build/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "parses: grok-build/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "parses: grok-build/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "parses: grok-build/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "opencode",
+  "check": "parses: opencode/spindoctor-qwerty/opencode.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "opencode",
+  "check": "parses: opencode/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "opencode",
+  "check": "parses: opencode/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "opencode",
+  "check": "parses: opencode/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openclaw",
+  "check": "parses: openclaw/spindoctor-qwerty/openclaw.plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openclaw",
+  "check": "parses: openclaw/spindoctor-qwerty/package.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openclaw",
+  "check": "parses: openclaw/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openclaw",
+  "check": "parses: openclaw/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openclaw",
+  "check": "parses: openclaw/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "letta-code",
+  "check": "parses: letta-code/spindoctor-qwerty-engine/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "letta-code",
+  "check": "parses: letta-code/spindoctor-qwerty-engine/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "letta-code",
+  "check": "parses: letta-code/spindoctor-qwerty-engine/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "parses: qwen-code/spindoctor-qwerty/qwen-extension.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "parses: qwen-code/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "parses: qwen-code/spindoctor-qwerty/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "parses: qwen-code/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "parses: qwen-code/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "parses: qwen-code/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "parses: qoder-cli/spindoctor-qwerty/.mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "parses: qoder-cli/spindoctor-qwerty/.qoder-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "parses: qoder-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "parses: qoder-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "parses: qoder-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "parses: qoder-cli/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "parses: qoderwork/spindoctor-qwerty/.mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "parses: qoderwork/spindoctor-qwerty/.qoder-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "parses: qoderwork/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "parses: qoderwork/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "parses: qoderwork/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "parses: qoderwork/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "pi",
+  "check": "parses: pi/spindoctor-qwerty/package.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "pi",
+  "check": "parses: pi/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "pi",
+  "check": "parses: pi/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "pi",
+  "check": "parses: pi/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "parses: antigravity/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "parses: antigravity/spindoctor-qwerty/mcp_config.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "parses: antigravity/spindoctor-qwerty/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "parses: antigravity/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "parses: antigravity/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "parses: antigravity/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cline",
+  "check": "parses: cline/spindoctor-qwerty/package.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "parses: mistral-vibe/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "parses: mistral-vibe/spindoctor-qwerty/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "parses: mistral-vibe/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "parses: mistral-vibe/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "parses: mistral-vibe/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "parses: mistral-vibe/spindoctor-qwerty/ai.mistral.vibe/hooks.toml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "goose",
+  "check": "parses: goose/spindoctor-qwerty/config.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "continue",
+  "check": "parses: continue/spindoctor-qwerty/config.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "continue",
+  "check": "parses: continue/spindoctor-qwerty/.continue/mcpServers/spindoctor-qwerty.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "roo-code",
+  "check": "parses: roo-code/spindoctor-qwerty/.roo/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "roo-code",
+  "check": "parses: roo-code/spindoctor-qwerty/.roo/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "roo-code",
+  "check": "parses: roo-code/spindoctor-qwerty/.roo/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "roo-code",
+  "check": "parses: roo-code/spindoctor-qwerty/.roo/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "zed",
+  "check": "parses: zed/spindoctor-qwerty/extension.toml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "zed",
+  "check": "parses: zed/spindoctor-qwerty/Cargo.toml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "zed",
+  "check": "parses: zed/spindoctor-qwerty/configuration/settings_schema.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "parses: factory-droid/spindoctor-qwerty/mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "parses: factory-droid/spindoctor-qwerty/.factory-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "parses: factory-droid/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "parses: factory-droid/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "parses: factory-droid/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "parses: factory-droid/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "parses: augment-auggie/spindoctor-qwerty/.mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "parses: augment-auggie/spindoctor-qwerty/.augment-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "parses: augment-auggie/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "parses: augment-auggie/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "parses: augment-auggie/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "parses: augment-auggie/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "parses: devin-cli/spindoctor-qwerty/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "parses: devin-cli/spindoctor-qwerty/.mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "parses: devin-cli/spindoctor-qwerty/.devin-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "parses: devin-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "parses: devin-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "parses: devin-cli/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "parses: codebuddy/spindoctor-qwerty/.mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "parses: codebuddy/spindoctor-qwerty/.codebuddy-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "parses: codebuddy/spindoctor-qwerty/.workbuddy-plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "parses: codebuddy/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "parses: codebuddy/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "parses: codebuddy/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "parses: codebuddy/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "parses: openhands/spindoctor-qwerty/.mcp.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "parses: openhands/spindoctor-qwerty/.plugin/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "parses: openhands/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "parses: openhands/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "parses: openhands/spindoctor-qwerty/skills/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "parses: openhands/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kilo-code",
+  "check": "parses: kilo-code/spindoctor-qwerty/package.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kilo-code",
+  "check": "parses: kilo-code/spindoctor-qwerty/.kilo/spindoctor-qwerty-engine/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kilo-code",
+  "check": "parses: kilo-code/spindoctor-qwerty/.kilo/spindoctor-qwerty-engine/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kilo-code",
+  "check": "parses: kilo-code/spindoctor-qwerty/.kilo/spindoctor-qwerty-engine/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwenpaw",
+  "check": "parses: qwenpaw/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwenpaw",
+  "check": "parses: qwenpaw/spindoctor-qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwenpaw",
+  "check": "parses: qwenpaw/spindoctor-qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwenpaw",
+  "check": "parses: qwenpaw/spindoctor-qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "deepseek-harness",
+  "check": "parses: deepseek-harness/spindoctor-qwerty/package.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "deepseek-harness",
+  "check": "parses: deepseek-harness/spindoctor-qwerty/cordis.patch.yml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "anythingllm",
+  "check": "parses: anythingllm/spindoctor-qwerty/plugin.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/manifest.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/examples/theory/rotation_theory.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/examples/theory/chatgpt_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/examples/theory/claude_conversations.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/provider/spindoctor_qwerty.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/tools/run_script.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/tools/run_preset.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/tools/list_presets.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/tools/report.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/tools/functions.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "parses: dify/spindoctor_qwerty/tools/test_theory.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "flowise",
+  "check": "parses: flowise/spindoctor-qwerty/custom-tool/spindoctor_qwerty.schema.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "flowise",
+  "check": "parses: flowise/spindoctor-qwerty/custom-tool/SpinDoctor Qwerty-CustomTool.json",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "Agent Plugins 1.0 plugin.json schema",
+  "pass": true,
+  "detail": "chatgpt-codex/spindoctor-qwerty/plugin.json"
+ },
+ {
+  "format": "hermes",
+  "check": "Agent Plugins 1.0 plugin.json schema",
+  "pass": true,
+  "detail": "hermes/spindoctor-qwerty/plugin.json"
+ },
+ {
+  "format": "copilot",
+  "check": "Agent Plugins 1.0 plugin.json schema",
+  "pass": true,
+  "detail": "copilot/spindoctor-qwerty/plugin.json"
+ },
+ {
+  "format": "midjourney",
+  "check": "Agent Plugins 1.0 plugin.json schema",
+  "pass": true,
+  "detail": "midjourney/spindoctor-qwerty-companion/plugin.json"
+ },
+ {
+  "format": "kiro",
+  "check": "Agent Plugins 1.0 plugin.json schema",
+  "pass": true,
+  "detail": "kiro/spindoctor-qwerty/plugin.json"
+ },
+ {
+  "format": "qwen-code",
+  "check": "Agent Plugins 1.0 plugin.json schema",
+  "pass": true,
+  "detail": "qwen-code/spindoctor-qwerty/plugin.json"
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "Agent Plugins 1.0 plugin.json schema",
+  "pass": true,
+  "detail": "mistral-vibe/spindoctor-qwerty/plugin.json"
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "Agent Plugins 1.0 mcp.json schema",
+  "pass": true,
+  "detail": "chatgpt-codex/spindoctor-qwerty/mcp.json"
+ },
+ {
+  "format": "hermes",
+  "check": "Agent Plugins 1.0 mcp.json schema",
+  "pass": true,
+  "detail": "hermes/spindoctor-qwerty/mcp.json"
+ },
+ {
+  "format": "copilot",
+  "check": "Agent Plugins 1.0 mcp.json schema",
+  "pass": true,
+  "detail": "copilot/spindoctor-qwerty/mcp.json"
+ },
+ {
+  "format": "midjourney",
+  "check": "Agent Plugins 1.0 mcp.json schema",
+  "pass": true,
+  "detail": "midjourney/spindoctor-qwerty-companion/mcp.json"
+ },
+ {
+  "format": "kiro",
+  "check": "Agent Plugins 1.0 mcp.json schema",
+  "pass": true,
+  "detail": "kiro/spindoctor-qwerty/mcp.json"
+ },
+ {
+  "format": "qwen-code",
+  "check": "Agent Plugins 1.0 mcp.json schema",
+  "pass": true,
+  "detail": "qwen-code/spindoctor-qwerty/mcp.json"
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "Agent Plugins 1.0 mcp.json schema",
+  "pass": true,
+  "detail": "mistral-vibe/spindoctor-qwerty/mcp.json"
+ },
+ {
+  "format": "claude-desktop",
+  "check": "MCPB v0.3 manifest schema",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "anythingllm",
+  "check": "AnythingLLM imported-manifest schema",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "claude-code",
+  "check": "required fields spindoctor-qwerty/.claude-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "claude-code",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "cursor",
+  "check": "required fields spindoctor-qwerty/.cursor-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "cursor",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "factory-droid",
+  "check": "required fields spindoctor-qwerty/.factory-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "factory-droid",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "augment-auggie",
+  "check": "required fields spindoctor-qwerty/.augment-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "augment-auggie",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "devin-cli",
+  "check": "required fields spindoctor-qwerty/.devin-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "devin-cli",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "codebuddy",
+  "check": "required fields spindoctor-qwerty/.codebuddy-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "codebuddy",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "codebuddy",
+  "check": "required fields spindoctor-qwerty/.workbuddy-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "codebuddy",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "openhands",
+  "check": "required fields spindoctor-qwerty/.plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "openhands",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "qoder-cli",
+  "check": "required fields spindoctor-qwerty/.qoder-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "qoder-cli",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "qoderwork",
+  "check": "required fields spindoctor-qwerty/.qoder-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "qoderwork",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "grok-build",
+  "check": "required fields spindoctor-qwerty/.grok-plugin/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "grok-build",
+  "check": "kebab-case name",
+  "pass": true,
+  "detail": "spindoctor-qwerty"
+ },
+ {
+  "format": "gemini-cli",
+  "check": "required fields spindoctor-qwerty/gemini-extension.json name,version",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "qwen-code",
+  "check": "required fields spindoctor-qwerty/qwen-extension.json name,version",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "openclaw",
+  "check": "required fields spindoctor-qwerty/openclaw.plugin.json id,configSchema",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "antigravity",
+  "check": "required fields spindoctor-qwerty/plugin.json name",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "qwenpaw",
+  "check": "required fields spindoctor-qwerty/plugin.json id,version,entry",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "anythingllm",
+  "check": "required fields spindoctor-qwerty/plugin.json hubId,name,entrypoint,schema",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "format": "deepseek-harness",
+  "check": "package.json dsh.bundle.patch exists",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "deepseek-harness",
+  "check": "cordis.patch.yml insert row names the package",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kilo-code",
+  "check": "package.json exports['./server'] target exists",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cline",
+  "check": "package.json cline.plugins paths exist",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "pi",
+  "check": "package.json pi.extensions exist",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openclaw",
+  "check": "package.json openclaw.extensions exist",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "nous",
+  "check": "plugin.yaml name/version/description",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "manifest.yaml required fields (version,type,author,name,label,created_at,icon,plugins,meta)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "provider tools/sources exist",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "tool yaml tools/run_script.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "tool yaml tools/run_preset.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "tool yaml tools/list_presets.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "tool yaml tools/report.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "tool yaml tools/functions.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "tool yaml tools/test_theory.yaml",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "zed",
+  "check": "extension.toml id/name/version/schema_version + context_servers",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "zed",
+  "check": "extension.wasm has WASM magic (component)",
+  "pass": true,
+  "detail": "0061736d0d000100"
+ },
+ {
+  "format": "claude-code",
+  "check": "frontmatter claude-code/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "frontmatter claude-code/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "frontmatter claude-code/spindoctor-qwerty/commands/qwerty-preset.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "frontmatter claude-code/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "frontmatter claude-code/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "frontmatter claude-code/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "frontmatter chatgpt-codex/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok_bot_skill",
+  "check": "frontmatter grok_bot_skill/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "hermes",
+  "check": "frontmatter hermes/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "frontmatter copilot/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "frontmatter copilot/spindoctor-qwerty/com.github.copilot/agents/helper.agent.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "midjourney",
+  "check": "frontmatter midjourney/spindoctor-qwerty-companion/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "frontmatter cursor/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "frontmatter cursor/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "frontmatter cursor/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "frontmatter cursor/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "frontmatter cursor/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "frontmatter gemini-cli/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kiro",
+  "check": "frontmatter kiro/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "frontmatter grok-build/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "frontmatter grok-build/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "frontmatter grok-build/spindoctor-qwerty/commands/qwerty-preset.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "frontmatter grok-build/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "frontmatter grok-build/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "frontmatter grok-build/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "opencode",
+  "check": "frontmatter opencode/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openclaw",
+  "check": "frontmatter openclaw/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "frontmatter qwen-code/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "frontmatter qwen-code/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "frontmatter qwen-code/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "frontmatter qoder-cli/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "frontmatter qoder-cli/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "frontmatter qoder-cli/spindoctor-qwerty/commands/qwerty-preset.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "frontmatter qoder-cli/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "frontmatter qoder-cli/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "frontmatter qoder-cli/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "frontmatter qoderwork/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "frontmatter qoderwork/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "frontmatter qoderwork/spindoctor-qwerty/commands/qwerty-preset.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "frontmatter qoderwork/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "frontmatter qoderwork/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "frontmatter qoderwork/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "pi",
+  "check": "frontmatter pi/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "frontmatter antigravity/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "frontmatter antigravity/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "plain rule markdown antigravity/spindoctor-qwerty/rules/spindoctor-honesty.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "frontmatter mistral-vibe/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "roo-code",
+  "check": "frontmatter roo-code/spindoctor-qwerty/.roo/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "frontmatter factory-droid/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "frontmatter factory-droid/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "frontmatter factory-droid/spindoctor-qwerty/commands/qwerty-preset.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "frontmatter factory-droid/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "frontmatter factory-droid/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "frontmatter factory-droid/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "frontmatter augment-auggie/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "frontmatter augment-auggie/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "frontmatter augment-auggie/spindoctor-qwerty/commands/qwerty-preset.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "frontmatter augment-auggie/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "frontmatter augment-auggie/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "frontmatter augment-auggie/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "frontmatter devin-cli/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "frontmatter devin-cli/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "frontmatter devin-cli/spindoctor-qwerty/rules/spindoctor-honesty.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "frontmatter codebuddy/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "frontmatter codebuddy/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "frontmatter codebuddy/spindoctor-qwerty/commands/qwerty-preset.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "frontmatter codebuddy/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "frontmatter codebuddy/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "frontmatter codebuddy/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "frontmatter openhands/spindoctor-qwerty/skills/spindoctor-qwerty/SKILL.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "frontmatter openhands/spindoctor-qwerty/commands/qwerty-run.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "frontmatter openhands/spindoctor-qwerty/commands/qwerty-preset.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "frontmatter openhands/spindoctor-qwerty/commands/qwerty-functions.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "frontmatter openhands/spindoctor-qwerty/commands/qwerty-theory.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "frontmatter openhands/spindoctor-qwerty/agents/qwerty-helper.md",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "frontmatter cursor/spindoctor-qwerty/rules/spindoctor-qwerty.mdc",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "hooks harmless (no entries): copilot/spindoctor-qwerty/com.github.copilot/hooks/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"version\": 1,\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "grok-build",
+  "check": "hooks harmless (no entries): grok-build/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "qoder-cli",
+  "check": "hooks harmless (no entries): qoder-cli/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "qoderwork",
+  "check": "hooks harmless (no entries): qoderwork/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "antigravity",
+  "check": "hooks harmless (no entries): antigravity/spindoctor-qwerty/hooks.json",
+  "pass": true,
+  "detail": "{}\n"
+ },
+ {
+  "format": "factory-droid",
+  "check": "hooks harmless (no entries): factory-droid/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "augment-auggie",
+  "check": "hooks harmless (no entries): augment-auggie/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "devin-cli",
+  "check": "hooks harmless (no entries): devin-cli/spindoctor-qwerty/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "codebuddy",
+  "check": "hooks harmless (no entries): codebuddy/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "openhands",
+  "check": "hooks harmless (no entries): openhands/spindoctor-qwerty/hooks/hooks.json",
+  "pass": true,
+  "detail": "{\n  \"hooks\": {}\n}\n"
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "hooks harmless (no entries): mistral-vibe/spindoctor-qwerty/ai.mistral.vibe/hooks.toml",
+  "pass": true,
+  "detail": "# SpinDoctor Qwerty ships no hooks (nothing runs automatically).\n"
+ },
+ {
+  "format": "amp",
+  "check": "MCP stdio initialize/tools/list/tools/call via amp/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "antigravity",
+  "check": "MCP stdio initialize/tools/list/tools/call via antigravity/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "anythingllm",
+  "check": "MCP stdio initialize/tools/list/tools/call via anythingllm/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "augment-auggie",
+  "check": "MCP stdio initialize/tools/list/tools/call via augment-auggie/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "MCP stdio initialize/tools/list/tools/call via chatgpt-codex/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "claude-code",
+  "check": "MCP stdio initialize/tools/list/tools/call via claude-code/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "claude-desktop",
+  "check": "MCP stdio initialize/tools/list/tools/call via claude-desktop/spindoctor-qwerty/server/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "cline",
+  "check": "MCP stdio initialize/tools/list/tools/call via cline/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "codebuddy",
+  "check": "MCP stdio initialize/tools/list/tools/call via codebuddy/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "continue",
+  "check": "MCP stdio initialize/tools/list/tools/call via continue/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "copilot",
+  "check": "MCP stdio initialize/tools/list/tools/call via copilot/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "cursor",
+  "check": "MCP stdio initialize/tools/list/tools/call via cursor/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "deepseek-harness",
+  "check": "MCP stdio initialize/tools/list/tools/call via deepseek-harness/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "devin-cli",
+  "check": "MCP stdio initialize/tools/list/tools/call via devin-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "factory-droid",
+  "check": "MCP stdio initialize/tools/list/tools/call via factory-droid/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "flowise",
+  "check": "MCP stdio initialize/tools/list/tools/call via flowise/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "gemini-cli",
+  "check": "MCP stdio initialize/tools/list/tools/call via gemini-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "goose",
+  "check": "MCP stdio initialize/tools/list/tools/call via goose/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "grok-build",
+  "check": "MCP stdio initialize/tools/list/tools/call via grok-build/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "grok_bot_skill",
+  "check": "MCP stdio initialize/tools/list/tools/call via grok_bot_skill/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "hermes",
+  "check": "MCP stdio initialize/tools/list/tools/call via hermes/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "kilo-code",
+  "check": "MCP stdio initialize/tools/list/tools/call via kilo-code/spindoctor-qwerty/.kilo/spindoctor-qwerty-engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "kiro",
+  "check": "MCP stdio initialize/tools/list/tools/call via kiro/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "letta-code",
+  "check": "MCP stdio initialize/tools/list/tools/call via letta-code/spindoctor-qwerty-engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "midjourney",
+  "check": "MCP stdio initialize/tools/list/tools/call via midjourney/spindoctor-qwerty-companion/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "MCP stdio initialize/tools/list/tools/call via mistral-vibe/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "open-webui",
+  "check": "MCP stdio initialize/tools/list/tools/call via open-webui/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "openclaw",
+  "check": "MCP stdio initialize/tools/list/tools/call via openclaw/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "opencode",
+  "check": "MCP stdio initialize/tools/list/tools/call via opencode/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "openhands",
+  "check": "MCP stdio initialize/tools/list/tools/call via openhands/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "pi",
+  "check": "MCP stdio initialize/tools/list/tools/call via pi/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "qoder-cli",
+  "check": "MCP stdio initialize/tools/list/tools/call via qoder-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "qoderwork",
+  "check": "MCP stdio initialize/tools/list/tools/call via qoderwork/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "qwen-code",
+  "check": "MCP stdio initialize/tools/list/tools/call via qwen-code/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "roo-code",
+  "check": "MCP stdio initialize/tools/list/tools/call via roo-code/spindoctor-qwerty/.roo/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "semantic-kernel",
+  "check": "MCP stdio initialize/tools/list/tools/call via semantic-kernel/SpinDoctorQwerty.SemanticKernel/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "zed",
+  "check": "MCP stdio initialize/tools/list/tools/call via zed/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "pass": true,
+  "detail": "tools=spindoctor_run_script,spindoctor_run_preset,spindoctor_list_presets,spindoctor_report,spindoctor_functions,spindoctor_test_theory"
+ },
+ {
+  "format": "amp",
+  "check": "CLI tool bridge run_preset qc-067 via amp/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "antigravity",
+  "check": "CLI tool bridge run_preset qc-067 via antigravity/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "anythingllm",
+  "check": "CLI tool bridge run_preset qc-067 via anythingllm/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "augment-auggie",
+  "check": "CLI tool bridge run_preset qc-067 via augment-auggie/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "CLI tool bridge run_preset qc-067 via chatgpt-codex/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-code",
+  "check": "CLI tool bridge run_preset qc-067 via claude-code/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude-desktop",
+  "check": "CLI tool bridge run_preset qc-067 via claude-desktop/spindoctor-qwerty/server/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cline",
+  "check": "CLI tool bridge run_preset qc-067 via cline/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "codebuddy",
+  "check": "CLI tool bridge run_preset qc-067 via codebuddy/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "continue",
+  "check": "CLI tool bridge run_preset qc-067 via continue/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "copilot",
+  "check": "CLI tool bridge run_preset qc-067 via copilot/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "cursor",
+  "check": "CLI tool bridge run_preset qc-067 via cursor/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "deepseek-harness",
+  "check": "CLI tool bridge run_preset qc-067 via deepseek-harness/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "devin-cli",
+  "check": "CLI tool bridge run_preset qc-067 via devin-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "factory-droid",
+  "check": "CLI tool bridge run_preset qc-067 via factory-droid/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "flowise",
+  "check": "CLI tool bridge run_preset qc-067 via flowise/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "gemini-cli",
+  "check": "CLI tool bridge run_preset qc-067 via gemini-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "goose",
+  "check": "CLI tool bridge run_preset qc-067 via goose/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok-build",
+  "check": "CLI tool bridge run_preset qc-067 via grok-build/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "grok_bot_skill",
+  "check": "CLI tool bridge run_preset qc-067 via grok_bot_skill/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "hermes",
+  "check": "CLI tool bridge run_preset qc-067 via hermes/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kilo-code",
+  "check": "CLI tool bridge run_preset qc-067 via kilo-code/spindoctor-qwerty/.kilo/spindoctor-qwerty-engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "kiro",
+  "check": "CLI tool bridge run_preset qc-067 via kiro/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "letta-code",
+  "check": "CLI tool bridge run_preset qc-067 via letta-code/spindoctor-qwerty-engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "midjourney",
+  "check": "CLI tool bridge run_preset qc-067 via midjourney/spindoctor-qwerty-companion/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "mistral-vibe",
+  "check": "CLI tool bridge run_preset qc-067 via mistral-vibe/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "open-webui",
+  "check": "CLI tool bridge run_preset qc-067 via open-webui/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openclaw",
+  "check": "CLI tool bridge run_preset qc-067 via openclaw/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "opencode",
+  "check": "CLI tool bridge run_preset qc-067 via opencode/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "openhands",
+  "check": "CLI tool bridge run_preset qc-067 via openhands/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "pi",
+  "check": "CLI tool bridge run_preset qc-067 via pi/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoder-cli",
+  "check": "CLI tool bridge run_preset qc-067 via qoder-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qoderwork",
+  "check": "CLI tool bridge run_preset qc-067 via qoderwork/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "qwen-code",
+  "check": "CLI tool bridge run_preset qc-067 via qwen-code/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "roo-code",
+  "check": "CLI tool bridge run_preset qc-067 via roo-code/spindoctor-qwerty/.roo/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "semantic-kernel",
+  "check": "CLI tool bridge run_preset qc-067 via semantic-kernel/SpinDoctorQwerty.SemanticKernel/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "zed",
+  "check": "CLI tool bridge run_preset qc-067 via zed/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "nous",
+  "check": "register(ctx) with stub ctx -> 6 tools; handler JSON ok; bad preset -> error key",
+  "pass": true,
+  "detail": "['spindoctor_run_script', 'spindoctor_run_preset', 'spindoctor_list_presets', 'spindoctor_report', 'spindoctor_functions', 'spindoctor_test_theory']"
+ },
+ {
+  "format": "qwenpaw",
+  "check": "plugin.register(api) stub -> 6 register_tool; tool returns ok JSON",
+  "pass": true,
+  "detail": "['spindoctor_run_script', 'spindoctor_run_preset', 'spindoctor_list_presets', 'spindoctor_report', 'spindoctor_functions', 'spindoctor_test_theory']"
+ },
+ {
+  "format": "open-webui",
+  "check": "Tools class: valve-unset error, run_preset ok, metadata docstring has title/version",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "tool modules import with official dify_plugin SDK",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "dify",
+  "check": "engine glue call ok",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "format": "claude",
+  "check": "archive claude/spindoctor-qwerty.plugin == folder claude-code/spindoctor-qwerty (41 files)",
+  "pass": true,
+  "detail": "set()"
+ },
+ {
+  "format": "chatgpt-codex",
+  "check": "archive chatgpt-codex/spindoctor-qwerty.zip == folder chatgpt-codex/spindoctor-qwerty (36 files)",
+  "pass": true,
+  "detail": "set()"
+ },
+ {
+  "format": "claude-desktop",
+  "check": "archive claude-desktop/spindoctor-qwerty.mcpb == folder claude-desktop/spindoctor-qwerty (33 files)",
+  "pass": true,
+  "detail": "set()"
+ },
+ {
+  "format": "qoderwork",
+  "check": "archive qoderwork/spindoctor-qwerty-kit.zip == folder qoderwork/spindoctor-qwerty (41 files)",
+  "pass": true,
+  "detail": "set()"
+ },
+ {
+  "format": "dify",
+  "check": ".difypkg contains manifest.yaml, provider, tools, main.py, engine",
+  "pass": true,
+  "detail": "53"
+ }
+]
