@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+engine/examples/theory/*.pdf
+e2e_results.json
