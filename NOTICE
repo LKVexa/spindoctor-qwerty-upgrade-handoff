@@ -1,0 +1,30 @@
+SpinDoctor Qwerty upgrade handoff kit (spindoctor-qwerty-upgrade-handoff)
+Copyright (C) 2026 RUSSELL PHILIP SMITHSON <russellsmithson77@outlook.com>
+Licensed under the GNU General Public License v3.0 or later (GPL-3.0-or-later); see LICENSE.
+
+Author: RUSSELL PHILIP SMITHSON <russellsmithson77@outlook.com>
+
+This product bundles the SpinDoctor Qwerty engine 1.1.0, a pure-Python (standard library only) port of the
+SpinDoctor 3.1.2 quantum-circuit simulator semantics (update 3.1.2-298-20261010), by the same author.
+
+SpinDoctor is a CLASSICAL simulator: it runs FP64 arithmetic on an ordinary computer. It is not a quantum computer,
+does not connect to quantum hardware, and claims no quantum speed-up or quantum advantage.
+
+Third-party names (host applications, file formats, protocols) are trademarks of their respective owners and are used
+only to describe compatibility. No third-party code is vendored in this repository; third-party data files are listed below.
+
+Third-party material in this kit (all redistributable; kept unmodified):
+
+- schemas/agent-plugins/1.0.0/*.schema.json and schemas/agent-plugins/1.1.0/*.schema.json
+  From https://github.com/agentplugins/agent-plugins-spec (commit ff8ab5e392cc87bd88d87c060815a87490e51003).
+  Agent Plugins schemas are licensed under the Apache License 2.0; see schemas/LICENSES/Apache-2.0.txt.
+- schemas/mcpb/mcpb-manifest-v0.3.schema.json, -v0.4.schema.json, -latest.schema.json
+  From https://github.com/modelcontextprotocol/mcpb (commit 70fe3b34cd6dff1b3bba046638edc72a6467a4fb).
+  Licensed under the Apache License 2.0, with contributions not yet relicensed remaining under the MIT License;
+  see schemas/LICENSES/MCPB-LICENSE.txt.
+- schemas/anythingllm/imported-manifest.schema.json
+  From https://github.com/Mintplex-Labs/anything-llm (server/utils/agents/imported-manifest.schema.json).
+  Copyright (c) Mintplex Labs Inc. MIT License; see schemas/LICENSES/AnythingLLM-MIT.txt.
+
+The reference outputs in reference/ were produced by SpinDoctor 3.1.2 (update 3.1.2-298-20261010), which is the
+author's own software. Host-application documentation is not copied into this kit; DOCS_LINKS.md links to it.
