@@ -1,0 +1,1098 @@
+[
+ {
+  "format": "amp",
+  "entry": "MCP amp/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "antigravity",
+  "entry": "MCP antigravity/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "anythingllm",
+  "entry": "MCP anythingllm/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "augment-auggie",
+  "entry": "MCP augment-auggie/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "chatgpt-codex",
+  "entry": "MCP chatgpt-codex/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "claude-code",
+  "entry": "MCP claude-code/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "claude-desktop",
+  "entry": "MCP claude-desktop/spindoctor-qwerty/server/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "cline",
+  "entry": "MCP cline/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "codebuddy",
+  "entry": "MCP codebuddy/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "continue",
+  "entry": "MCP continue/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "copilot",
+  "entry": "MCP copilot/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "cursor",
+  "entry": "MCP cursor/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "deepseek-harness",
+  "entry": "MCP deepseek-harness/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "devin-cli",
+  "entry": "MCP devin-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "factory-droid",
+  "entry": "MCP factory-droid/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "flowise",
+  "entry": "MCP flowise/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "gemini-cli",
+  "entry": "MCP gemini-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "goose",
+  "entry": "MCP goose/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "grok-build",
+  "entry": "MCP grok-build/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "grok_bot_skill",
+  "entry": "MCP grok_bot_skill/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "hermes",
+  "entry": "MCP hermes/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "kilo-code",
+  "entry": "MCP kilo-code/spindoctor-qwerty/.kilo/spindoctor-qwerty-engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "kiro",
+  "entry": "MCP kiro/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "letta-code",
+  "entry": "MCP letta-code/spindoctor-qwerty-engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "midjourney",
+  "entry": "MCP midjourney/spindoctor-qwerty-companion/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "mistral-vibe",
+  "entry": "MCP mistral-vibe/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "open-webui",
+  "entry": "MCP open-webui/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "openclaw",
+  "entry": "MCP openclaw/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "opencode",
+  "entry": "MCP opencode/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "openhands",
+  "entry": "MCP openhands/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "pi",
+  "entry": "MCP pi/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "qoder-cli",
+  "entry": "MCP qoder-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "qoderwork",
+  "entry": "MCP qoderwork/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "qwen-code",
+  "entry": "MCP qwen-code/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "roo-code",
+  "entry": "MCP roo-code/spindoctor-qwerty/.roo/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "semantic-kernel",
+  "entry": "MCP semantic-kernel/SpinDoctorQwerty.SemanticKernel/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "zed",
+  "entry": "MCP zed/spindoctor-qwerty/engine/scripts/spindoctor_mcp.py",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true,
+  "reportTool": true
+ },
+ {
+  "format": "amp",
+  "entry": "CLI amp/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "antigravity",
+  "entry": "CLI antigravity/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "anythingllm",
+  "entry": "CLI anythingllm/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "augment-auggie",
+  "entry": "CLI augment-auggie/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "chatgpt-codex",
+  "entry": "CLI chatgpt-codex/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "claude-code",
+  "entry": "CLI claude-code/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "claude-desktop",
+  "entry": "CLI claude-desktop/spindoctor-qwerty/server/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "cline",
+  "entry": "CLI cline/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "codebuddy",
+  "entry": "CLI codebuddy/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "continue",
+  "entry": "CLI continue/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "copilot",
+  "entry": "CLI copilot/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "cursor",
+  "entry": "CLI cursor/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "deepseek-harness",
+  "entry": "CLI deepseek-harness/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "devin-cli",
+  "entry": "CLI devin-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "factory-droid",
+  "entry": "CLI factory-droid/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "flowise",
+  "entry": "CLI flowise/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "gemini-cli",
+  "entry": "CLI gemini-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "goose",
+  "entry": "CLI goose/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "grok-build",
+  "entry": "CLI grok-build/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "grok_bot_skill",
+  "entry": "CLI grok_bot_skill/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "hermes",
+  "entry": "CLI hermes/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "kilo-code",
+  "entry": "CLI kilo-code/spindoctor-qwerty/.kilo/spindoctor-qwerty-engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "kiro",
+  "entry": "CLI kiro/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "letta-code",
+  "entry": "CLI letta-code/spindoctor-qwerty-engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "midjourney",
+  "entry": "CLI midjourney/spindoctor-qwerty-companion/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "mistral-vibe",
+  "entry": "CLI mistral-vibe/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "open-webui",
+  "entry": "CLI open-webui/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "openclaw",
+  "entry": "CLI openclaw/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "opencode",
+  "entry": "CLI opencode/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "openhands",
+  "entry": "CLI openhands/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "pi",
+  "entry": "CLI pi/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "qoder-cli",
+  "entry": "CLI qoder-cli/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "qoderwork",
+  "entry": "CLI qoderwork/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "qwen-code",
+  "entry": "CLI qwen-code/spindoctor-qwerty/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "roo-code",
+  "entry": "CLI roo-code/spindoctor-qwerty/.roo/skills/spindoctor-qwerty/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "semantic-kernel",
+  "entry": "CLI semantic-kernel/SpinDoctorQwerty.SemanticKernel/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "zed",
+  "entry": "CLI zed/spindoctor-qwerty/engine/scripts/spindoctor_cli.py",
+  "tools": [
+   "tool bridge"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "nous",
+  "entry": "register(ctx) handler",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "qwenpaw",
+  "entry": "plugin.register(api) tool",
+  "tools": [
+   "spindoctor_run_script",
+   "spindoctor_run_preset",
+   "spindoctor_list_presets",
+   "spindoctor_report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "open-webui",
+  "entry": "Tools.spindoctor_run_script (reply truncated)",
+  "tools": [
+   "spindoctor_list_presets",
+   "spindoctor_report",
+   "spindoctor_run_preset",
+   "spindoctor_run_script"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ },
+ {
+  "format": "dify",
+  "entry": "RunScriptTool._invoke (text+json messages)",
+  "tools": [
+   "run_script",
+   "run_preset",
+   "list_presets",
+   "report"
+  ],
+  "commands": 31,
+  "failed": [],
+  "txt": 31,
+  "pdf": 31,
+  "pass": true
+ }
+]

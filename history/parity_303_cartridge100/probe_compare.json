@@ -1,0 +1,817 @@
+[
+ [
+  "q.help",
+  "different",
+  "result.advancedCapabilities extra-in-cartridge; result.commands missing-in-cartridge; result.circuit extra-in-cartridge; result.calculatorCapabilities extra-in-cartridge (+6 more)"
+ ],
+ [
+  "q.status",
+  "different",
+  "result.tranche.lifetimeActualWork missing-in-cartridge; result.tranche.scope missing-in-cartridge; result.tranche.checkpointStateRestored missing-in-cartridge; result.tranche.replayJournalLength extra-in-cartridge (+19 more)"
+ ],
+ [
+  "q.circuit help",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche help",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.input help",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown command namespace. Use q.help."
+ ],
+ [
+  "q.history help",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown command namespace. Use q.help."
+ ],
+ [
+  "q.sequence help",
+  "different",
+  "result.jobBarriers missing-in-cartridge; result.commands len 7 vs 5; result.sequenceSubmission 'POST an array of ordinary commands. Unquoted semicolons/newlines are rejected. Q' vs 'Use a .q script file (one command per line) or Session.run_sequence([...]).'"
+ ],
+ [
+  "q.folder help",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown command namespace. Use q.help."
+ ],
+ [
+  "q.circuit capacity",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit capacity 0",
+  "identical",
+  "same refusal (.NET 'Parameter name' suffix only)"
+ ],
+ [
+  "q.circuit capacity abc",
+  "identical",
+  "same refusal (.NET 'Parameter name' suffix only)"
+ ],
+ [
+  "q.circuit capacity 10",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit new p1 3",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit new p1 3",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.circuit new p2 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit list",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit select p1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add h 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add x 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add y 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add z 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add s 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add sdg 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add t 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add tdg 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add i 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add sx 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add sxdg 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add rx 0.3 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add ry 0.3 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add rz 0.3 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add p 0.3 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add u 0.1 0.2 0.3 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add u3 0.1 0.2 0.3 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add cx 0 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add cnot 1 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add cy 0 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add cz 1 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add ch 0 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add swap 0 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add cp 0.2 0 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add crx 0.2 1 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add cry 0.2 0 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add crz 0.2 0 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add rxx 0.2 0 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add ryy 0.2 1 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add rzz 0.2 0 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add rzx 0.2 0 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add cu 0.1 0.2 0.3 0.4 0 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add ccx 0 1 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add toffoli 0 1 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add cswap 0 1 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add fredkin 0 1 2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add h all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit add bogus 0",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.circuit add cx 0 0",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.circuit add h 7",
+  "identical",
+  "same refusal (.NET 'Parameter name' suffix only)"
+ ],
+ [
+  "q.circuit show",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit input 5",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit run shots 500 basis z",
+  "different",
+  "result.scope extra-in-cartridge; result.requestedShots extra-in-cartridge; result.queued missing-in-cartridge; result.error extra-in-cartridge (+19 more)"
+ ],
+ [
+  "q.circuit status",
+  "different",
+  "result.lifetime.actualAmplitudeWrites '143274' vs '274'; result.lifetime.backendGateApplications '19539' vs '39'; result.lifetime.actualPreparedQubits '1503' vs '3'; result.lifetime.actualTensorProducts '64128' vs '128' (+2 more)"
+ ],
+ [
+  "q.circuit result",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit state 3",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit spin 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit export",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit run shots 200 basis x",
+  "different",
+  "result.scope extra-in-cartridge; result.requestedShots extra-in-cartridge; result.queued missing-in-cartridge; result.error extra-in-cartridge (+19 more)"
+ ],
+ [
+  "q.circuit run shots 200 basis y",
+  "different",
+  "result.scope extra-in-cartridge; result.requestedShots extra-in-cartridge; result.queued missing-in-cartridge; result.error extra-in-cartridge (+19 more)"
+ ],
+ [
+  "q.circuit run shots 0 basis z",
+  "identical",
+  "same refusal (.NET 'Parameter name' suffix only)"
+ ],
+ [
+  "q.circuit run shots 100 basis w",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.query amplitudes",
+  "identical",
+  "normalised result equal (3 fp<=1e-9)"
+ ],
+ [
+  "q.query probabilities",
+  "identical",
+  "normalised result equal (3 fp<=1e-9)"
+ ],
+ [
+  "q.query fidelity",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.circuit cancel",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit clear",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit show",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit delete p2",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit delete nosuch",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.circuit preset bell",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit preset ghz 5",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit preset qft 3 as myqft",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit preset bogus",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.circuit list",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit memory 256",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit memory auto",
+  "different",
+  "3.0.3 ok=True, cartridge ok=False: Expected an unsigned decimal integer."
+ ],
+ [
+  "q.circuit prune presets 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.circuit prune users",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.circuit new big 30",
+  "identical",
+  "same refusal (.NET 'Parameter name' suffix only)"
+ ],
+ [
+  "q.tranche prepare 4 zero",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche from 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche gate h all",
+  "different",
+  "result.note 'Selected-register operation is running. Poll q.tranche status; gate cancellation' vs 'Cartridge executes tranche gates synchronously; the job is already complete.'"
+ ],
+ [
+  "q.tranche gate cx 0 1",
+  "different",
+  "result.note 'Selected-register operation is running. Poll q.tranche status; gate cancellation' vs 'Cartridge executes tranche gates synchronously; the job is already complete.'"
+ ],
+ [
+  "q.tranche gate u 0.2 0.3 0.4 2",
+  "different",
+  "result.note 'Selected-register operation is running. Poll q.tranche status; gate cancellation' vs 'Cartridge executes tranche gates synchronously; the job is already complete.'"
+ ],
+ [
+  "q.tranche gate cu 0.2 0.3 0.4 0.5 2 3",
+  "different",
+  "result.note 'Selected-register operation is running. Poll q.tranche status; gate cancellation' vs 'Cartridge executes tranche gates synchronously; the job is already complete.'"
+ ],
+ [
+  "q.tranche gate bogus 0",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.tranche state 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche spin 0",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche measure 0 basis z shots 100",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche measure 1 basis z shots 1 collapse",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche status",
+  "different",
+  "result.scope 'One selected coherent register of up to 29 qubits. Tensor factors and joint-stat' vs 'One selected coherent register; factor blocks preserve genuine entanglement. No '; result.checkpointStateRestored missing-in-cartridge; result.replayJournalLength extra-in-cartridge; result.checkpoint (+4 more)"
+ ],
+ [
+  "q.tranche memory 512",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche memory auto",
+  "different",
+  "3.0.3 ok=True, cartridge ok=False: Expected an unsigned decimal integer."
+ ],
+ [
+  "q.tranche export",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche save dense",
+  "different",
+  "result.stateFile 'spindoctor-tranche-state.bin' vs 'spindoctor-tranche.json'"
+ ],
+ [
+  "q.tranche resume",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche cancel",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche reset",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche release",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.tranche status",
+  "different",
+  "result.lifetimeActualWork missing-in-cartridge; result.scope missing-in-cartridge; result.memoryLimitBytes '5346689024' vs '536870912'; result.checkpointStateRestored missing-in-cartridge (+9 more)"
+ ],
+ [
+  "q.prepare grid 1000 1000",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.migrate t 1",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.state 12345",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate ry 0.2 all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate rz 0.2 all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate u 0.2 0.3 0.4 all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate u3 0.2 0.3 0.4 all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate h all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate x all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate y all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate z all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate s all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate t all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate i all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate identity all",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.gate bogus all",
+  "identical",
+  "same refusal (.NET 'Parameter name' suffix only)"
+ ],
+ [
+  "q.verify rule",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.verify samples 256 errors-only",
+  "different",
+  "result.scope 'Completed CPU/GPU amplitude, relative-phase, norm, Born P1 and spin comparisons.' vs 'Completed CPU/reference amplitude, relative-phase, norm, Born P1 and spin compar'"
+ ],
+ [
+  "q.verify status",
+  "different",
+  "result.scope 'Completed CPU/GPU amplitude, relative-phase, norm, Born P1 and spin comparisons.' vs 'Completed CPU/reference amplitude, relative-phase, norm, Born P1 and spin compar'"
+ ],
+ [
+  "q.verify cancel",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.measure 12345 basis x shots 100",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.measure 12345 basis q shots 100",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.export descriptor",
+  "different",
+  "result.runtimeSourceHashes missing-in-cartridge; result.verification.scope 'Completed CPU/GPU amplitude, relative-phase, norm, Born P1 and spin comparisons.' vs 'Completed CPU/reference amplitude, relative-phase, norm, Born P1 and spin compar'"
+ ],
+ [
+  "q.reset",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.status",
+  "different",
+  "result.tranche.lifetimeActualWork missing-in-cartridge; result.tranche.scope missing-in-cartridge; result.tranche.memoryLimitBytes '5346689024' vs '536870912'; result.tranche.checkpointStateRestored missing-in-cartridge (+28 more)"
+ ],
+ [
+  "q.resource headroom",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.resource auto",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.math norm amplitudes=[1,0]",
+  "identical",
+  "normalised result equal"
+ ],
+ [
+  "q.math frobnicate x=1",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.compile synthesize rz 0.3 1e-6",
+  "different",
+  "refusal text: 3.0.3 'Expected key=value near rz 0.3 1e-6.' vs cartridge 'Proposed command is not implemented and validated: q.compile synthesize. Clifford+T approximate synt'"
+ ],
+ [
+  "q.input list",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown command namespace. Use q.help."
+ ],
+ [
+  "q.input show nosuch",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Expected an opaque32-character attachment ID."
+ ],
+ [
+  "q.input evaluate nosuch",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Expected an opaque32-character attachment ID."
+ ],
+ [
+  "q.input import nosuch",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Expected an opaque32-character attachment ID."
+ ],
+ [
+  "q.input run nosuch",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Expected an opaque32-character attachment ID."
+ ],
+ [
+  "q.input delete nosuch",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Expected an opaque32-character attachment ID."
+ ],
+ [
+  "q.input export nosuch",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Expected an opaque32-character attachment ID."
+ ],
+ [
+  "q.history list",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown command namespace. Use q.help."
+ ],
+ [
+  "q.history show 0123456789abcdef0123456789abcdef",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Unknown command report ID."
+ ],
+ [
+  "q.history export xyz",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Report ID must be 32 hexadecimal characters."
+ ],
+ [
+  "q.preset list",
+  "different",
+  "unparsable Unterminated string starting at: line 1 column 119965 (char 119964)"
+ ],
+ [
+  "q.preset show qc-067",
+  "different",
+  "result.scope missing-in-cartridge; result.parameterSchema missing-in-cartridge; result.selectionExecutes missing-in-cartridge; result.nativeCapabilities missing-in-cartridge"
+ ],
+ [
+  "q.preset show qc-999",
+  "different",
+  "refusal text: 3.0.3 'Unknown preset ID.' vs cartridge 'Unknown preset id.'"
+ ],
+ [
+  "q.preset run qc-067",
+  "different",
+  "result \"{'queued': True, 'job': {'id': 'dbfbd4bbcac54ac7b7a9569665f1ba88', 'active': Tru\" vs 'None'"
+ ],
+ [
+  "q.preset run qc-067 shots=64",
+  "different",
+  "result \"{'queued': True, 'job': {'id': '15f9477ec54144c7a86a4920f407cd63', 'active': Tru\" vs 'None'"
+ ],
+ [
+  "q.preset run qc-067 shots",
+  "identical",
+  "same refusal"
+ ],
+ [
+  "q.sequence status",
+  "different",
+  "result.scope missing-in-cartridge; result.manifestSha256 missing-in-cartridge; result.totalJobs missing-in-cartridge; result.recentJobIds missing-in-cartridge (+3 more)"
+ ],
+ [
+  "q.sequence export",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown sequence/preset/folder command. Use q.sequence help."
+ ],
+ [
+  "q.sequence cancel",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown sequence/preset/folder command. Use q.sequence help."
+ ],
+ [
+  "q.folder status",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown command namespace. Use q.help."
+ ],
+ [
+  "q.folder cancel",
+  "missing",
+  "3.0.3 ok=True, cartridge ok=False: Unknown command namespace. Use q.help."
+ ],
+ [
+  "q.folder run path=\"/nonexistent_dir_xyz\"",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Input folder does not exist."
+ ],
+ [
+  "q.nosuch thing",
+  "missing",
+  "cartridge rejects namespace; 3.0.3: Unknown quantum command. Use q.help."
+ ],
+ [
+  "hello",
+  "different",
+  "refusal text: 3.0.3 'Unknown quantum command. Use q.help.' vs cartridge 'Only native q.* commands are accepted.'"
+ ],
+ [
+  "q.circuit new semi;colon 2",
+  "different",
+  "refusal text: 3.0.3 'Invalid circuit name.' vs cartridge 'Submit ordinary commands as an array; unquoted macro separators are unsupported.'"
+ ]
+]
